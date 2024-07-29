@@ -1,0 +1,32 @@
+{
+  "name": "svg-logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengsueT/svg-logo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PengsueT/svg-logo/issues"
+  },
+  "homepage": "https://github.com/PengsueT/svg-logo#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
