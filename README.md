@@ -10,7 +10,7 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-## Referances
+## Credit
 
 [BasicShapes](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes)
 
@@ -22,8 +22,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshots
 
-[Circle Screenshot](/images/circle.png)
-[Sqaure Screenshot](/images/square.png)
-[Triangle Screenshot](/images/triangle.png)
+![Circle Screenshot](/images/circle.png)
+![Sqaure Screenshot](/images/square.png)
+![Triangle Screenshot](/images/triangle.png)
 
 ## Website-Video
+
+![Video walkthrough of the command line prompt asking for text, text color, shape and shape color](/images/SVG-video.gif)
