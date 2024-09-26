@@ -28,4 +28,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Website-Video
 
-![Video walkthrough of the command line prompt asking for text, text color, shape and shape color](/images/SVG-video.gif)
+[Demonstration Video Link](https://drive.google.com/file/d/1NrdQIuDTy_PHKQRYV6_eDyZz9NAPR4qs/view?usp=sharing)
